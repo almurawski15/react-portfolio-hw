@@ -1,8 +1,11 @@
 import React from "react";
 
-import './App.css';
+import './style.css';
 import Header from "./Components/Header";
 import About from "./Components/About";
+import Projects from "./Components/Projects";
+import Contact from "./Components/Contact";
+import Footer from "./Components/Footer";
 
 function App() {
   return (
@@ -10,6 +13,7 @@ function App() {
     <About />
     <Projects />
     <Contact />
+    <Footer />
     
   );
 }
