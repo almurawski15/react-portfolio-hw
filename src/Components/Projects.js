@@ -36,6 +36,33 @@ function Project() {
             </div>
             <div className="work__box">
               <div className="work__text">
+                <h3>Code Quiz</h3>  
+                <a href="https://almurawski15.github.io/code-quiz/">
+                  <img src="assets/quiz_snip_1.PNG" alt="Code Quiz" style={{width: '100%'}} /></a>
+                <p>This project is a simple calendar application that allows users to save events for each hour of the day featuring HTML and CSS powered by JQuery code.</p>
+                <a href="https://github.com/almurawski15/code-quiz" alt="Link to Repo">Link to GitHub Repo</a>
+              </div>
+            </div>
+            <div className="work__box">
+              <div className="work__text">
+                <h3>Note Taker</h3>  
+                <a href="https://almurawski15.github.io/note-taker/">
+                  <img src="assets/note-taker.png" alt="Note Taker" style={{width: '100%'}} /></a>
+                <p>This project is a simple Note Taker application that can be used to write and save notes utilizing Express.</p>
+                <a href="https://github.com/almurawski15/note-taker" alt="Link to Repo">Link to GitHub Repo</a>
+              </div>
+            </div>
+            <div className="work__box">
+              <div className="work__text">
+                <h3>Fitness Tracker</h3>  
+                <a href="https://almurawski15.github.io/fitness-tracker/">
+                  <img src="assets/fitness-tracker-snapshot.png" alt="Day Planner" style={{width: '100%'}} /></a>
+                <p>A fitness application that tracks users daily workouts and utilizes MongoDB</p>
+                <a href="https://github.com/almurawski15/fitness-tracker" alt="Link to Repo">Link to GitHub Repo</a>
+              </div>
+            </div>
+            <div className="work__box">
+              <div className="work__text">
                 <h3>ReadMe Generator</h3>  
                 <img src="assets/readme_gif.gif" alt="Quiz" style={{width: '100%'}} />
                 <p>This project is a README.md generator utilizing node.js prompted in the command line to help developers save time in creating README files and focus on their coding.</p>
