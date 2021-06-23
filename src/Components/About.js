@@ -15,7 +15,7 @@ function About() {
               </a>
             </div>
             <div className="about__photo-container">
-              <img className="about__photo" src="./assets/headshot.jpg" alt="Al Murawski" />
+              <img className="about__photo" src="./public/assets/headshot.jpg" alt="Al Murawski" />
             </div>
           </div>
         </div>

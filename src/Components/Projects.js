@@ -27,6 +27,15 @@ function Project() {
             </div>
             <div className="work__box">
               <div className="work__text">
+                <h3>Google Search Books</h3>  
+                <a href="https://google-searchbooks-hw.herokuapp.com/">
+                  <img src="assets/google-snapshot.PNG" alt="Google Books" style={{width: '100%'}} /></a>
+                <p>MERN-Stack app allowing users to query and display books from the Google Books API.</p>
+                <a href="https://github.com/almurawski15/google-books" alt="Link to Repo">Link to GitHub Repo</a>
+              </div>
+            </div>
+            <div className="work__box">
+              <div className="work__text">
                 <h3>Day Planner</h3>  
                 <a href="https://almurawski15.github.io/day-planner/">
                   <img src="assets/day-planner-3.png" alt="Day Planner" style={{width: '100%'}} /></a>
